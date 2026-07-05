@@ -1,13 +1,12 @@
 {
-  "name": "techdoc-server",
-  "version": "1.0.0",
-  "private": true,
-  "description": "TechDoc frontend/backend repository",
-  "main": "backend/server.js",
+  "name": "techdoc",
+  "version": "3.0.0",
+  "description": "TechDoc – Universal AI Technical Support Assistant",
+  "main": "server.js",
   "scripts": {
-    "start": "node backend/server.js"
+    "start": "node server.js"
   },
-  "dependencies": {
-    "express": "^4.18.2"
+  "engines": {
+    "node": ">=18.0.0"
   }
 }
