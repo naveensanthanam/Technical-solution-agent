@@ -1,0 +1,12 @@
+{
+  "name": "techdoc",
+  "version": "3.0.0",
+  "description": "TechDoc - Universal AI Technical Support Assistant",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
